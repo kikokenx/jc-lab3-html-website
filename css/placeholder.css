@@ -46,13 +46,16 @@
             <section id="boxes">
                 <div class="container">
                     <div class="box">
+                        <img src="./img/logo_html.jpeg">
                         <h3>HTML5 Markup</h3>
                         <p>Random paragraph insert here</p>
                     </div>
                     <div class="box">
+                        <img src="./img/logo_html.jpeg">
                         <h3>CSS3 Styling</h3>
                         <p>Random paragraph insert here</p>
                         <div class="box">
+                            <img src="./img/logo_html.jpeg">
                             <h3>Graphic Desgin</h3>
                             <p>Random paragraph insert here</p>
                         </div>
@@ -60,8 +63,12 @@
                 </div>
             </section>
 
+            <footer>
+                <p>Web Design, Copyright &copy;</p>
+            </footer>
 
-            
+
+
 
         </section>
 
